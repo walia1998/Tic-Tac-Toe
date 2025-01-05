@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 ```
 
 # For Icons 
-## I have used 
+
 ```
 React-Icons --->  npm i react-icons
 
