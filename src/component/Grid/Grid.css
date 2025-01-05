@@ -1,0 +1,20 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 500px; /* Adjust based on your UI */
+    margin: auto;
+  }
+
+  .turn-heighlight {
+    color: white;
+  }
+  
+  .reset-button {
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+  }
