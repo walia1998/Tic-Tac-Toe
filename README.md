@@ -14,3 +14,10 @@ Currently, two official plugins are available:
  npm install --save react-toastify
 
 ```
+
+# For Icons 
+## I have used 
+```
+React-Icons --->  npm i react-icons
+
+```
